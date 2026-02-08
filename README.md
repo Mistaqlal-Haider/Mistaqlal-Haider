@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad
+### Final Year Computer Science Student | Python & Django Developer
 
-<!--
-**Mistaqlal-Haider/Mistaqlal-Haider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 **Current Project:** Working on an Agri-Tech Final Year Project.
+- 🌱 **Learning:** Enhancing my skills in Django Rest Framework and Cloud Deployment.
+- 🎓 **Education:** Pursuing BDP at Federal Urdu University (FUUAST).
+- 🥅 **2026 Goals:** Apply for Master's programs in Germany or Italy.
+- 🐎 **Interests:** I have a huge passion for horses!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+- **Languages:** Python (Django), Java, C++, HTML, CSS
+- **Databases:** SQLite, PostgreSQL
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
