@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammad
+# 👋 Hi, I'm Muhammad Istaqlal Haider
 ### Final Year Computer Science Student | Python & Django Developer
 
 - 🔭 **Current Project:** Working on an Agri-Tech Final Year Project.
